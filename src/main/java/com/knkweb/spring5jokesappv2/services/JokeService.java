@@ -1,5 +1,5 @@
 package com.knkweb.spring5jokesappv2.services;
 
-public interface jokeService {
+public interface JokeService {
     String getAJoke();
 }
